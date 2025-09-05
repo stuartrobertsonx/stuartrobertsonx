@@ -2,7 +2,7 @@
 
 ### Full-Stack Developer | IT Manager
 
-I'm a Web Developer living in Guelph, Ontario, Canada with over 25 years experience developing enterprise websites and applications for Government and Higher Education. I'm a lifelong learner and currently working on a Professional Certificate in Computer Science for Web Programming from Harvard University.
+I'm a Full-Stack Developer and IT Manager living in Guelph, Ontario, Canada with over 25 years experience developing enterprise websites and applications for Government and Higher Education. I'm a lifelong learner and currently working on a Professional Certificate in Computer Science for Web Programming from Harvard University.
 
 ---
 
