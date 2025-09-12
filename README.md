@@ -1,4 +1,4 @@
-## Hi there, I'm [Stuart](https://github.com/stuartrobertsonx) 👋
+## Hi there, I'm Stuart 👋
 
 ### Full-Stack Developer | IT Manager
 
